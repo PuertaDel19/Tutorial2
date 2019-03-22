@@ -8,23 +8,13 @@ CadenaPdelSol19<?xml version="1.0" encoding="UTF-8"?>
   </business>
   <url>
     <reference>FACTURA999</reference>
-    <amount>2500.00</amount>
+    <amount>variable</amount>
     <moneda>MXN</moneda>
     <canal>W</canal>
     <omitir_notif_default>1</omitir_notif_default>
-    <promociones>C,3,6,9</promociones>
+    <promociones>C</promociones>
     <st_correo>1</st_correo>
-    <fh_vigencia>20/04/2019</fh_vigencia>
-    <mail_cliente>nospam@gmail.com</mail_cliente>
-    <datos_adicionales>
-      <data id="1" display="true">
-        <label>Talla</label>
-        <value>Grande</value>
-      </data>
-      <data id="2" display="false">
-        <label>Color</label>
-        <value>Azul</value>
-      </data>
-    </datos_adicionales>
+    <fh_vigencia>today</fh_vigencia>
+    <mail_cliente>administrador@puertadelsol.org</mail_cliente>
   </url>
 </P>
